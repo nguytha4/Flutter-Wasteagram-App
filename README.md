@@ -1,2 +1,2 @@
 # Flutter-Wasteagram-App
-A simple Flutter program.
+A Flutter program to keep track of food waste that works with Google Firebase to allow users to upload photos.
